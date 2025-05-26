@@ -2,10 +2,10 @@
   "name": "CSE-110_Lab8",
   "short_name": "Fong Yu Lin",
   "description": "",
-  "start_url": "",
+  "start_url": "index.html",
   "display": "standalone",
-  "background_color": "",
-  "theme_color": "",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
   "icons": [
     {
       "src": "/assets/images/icons/icon-192x192.png",
